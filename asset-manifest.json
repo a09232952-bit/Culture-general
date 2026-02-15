@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a09232952-bit/culture-general.git/static/css/main.0bbc58a0.css",
+    "main.js": "/a09232952-bit/culture-general.git/static/js/main.bcfaa916.js",
+    "index.html": "/a09232952-bit/culture-general.git/index.html",
+    "main.0bbc58a0.css.map": "/a09232952-bit/culture-general.git/static/css/main.0bbc58a0.css.map",
+    "main.bcfaa916.js.map": "/a09232952-bit/culture-general.git/static/js/main.bcfaa916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbc58a0.css",
+    "static/js/main.bcfaa916.js"
+  ]
+}
